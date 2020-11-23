@@ -9,6 +9,7 @@ A live demo can be found **[here](https://kaminski.pw/vibe)**
 ---
 ## Built With
 
+- PHP (>=7.4.0)
 - Symfony 5 (>=5.1)
 - jQuery (>= 3.5.1)
 - Twig (>= 3.0)
@@ -17,7 +18,10 @@ A live demo can be found **[here](https://kaminski.pw/vibe)**
 ## Setup
 - Clone to your preferred location
 - Install the required dependencies (`composer install`) 
-- bind your database in `.env`
+- Bind your database in `.env`
+- Construct your database (`php bin/console make:migrate`)
+- Execute the migration (`php bin/console doctrine:migration:migrate`)
+- Populate the phrase table with positive messages!
 
 ---
 ## License
