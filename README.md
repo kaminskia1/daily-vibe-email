@@ -1,6 +1,6 @@
 ![](public/assets/vibe_200x100.png)
 
-This is a Web Application written with Symfony 5 targeted at providing an easy way to log an E-Mail, and subsequently email the aggregated list daily with a positive quote with an intent to generate an upbeat mood, until the end of time.
+This is a Web Application written with Symfony 5 targeted at providing an easy way to log an E-Mail, and subsequently email am aggregated list daily with a positive quote with an intent to generate an upbeat mood, until the end of time.
 
 ---
 ## Demo
