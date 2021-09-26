@@ -1,13 +1,10 @@
 ![](public/assets/vibe_200x100.png)
 
+## Abstract
 This is a Web Application written with Symfony 5 targeted at providing an easy way to log an E-Mail, and subsequently email an aggregated list daily with a positive quote; the intent being to generate an upbeat mood.
 
 ---
-## Demo
-A live demo can be found **[here](https://kaminski.pw/vibe)**
-
----
-## Built With
+## Requirements
 
 - PHP (>=7.4.0)
 - Symfony 5 (>=5.1)
